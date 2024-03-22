@@ -1,0 +1,59 @@
+.chartbox-content {
+  display: flex;
+  height: 100%;
+}
+
+.chart-info-section {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: space-between;
+  flex: 1;
+}
+
+.chart-info-section-title {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+
+.chart-section {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  flex: 1;
+}
+
+.chartbox-tiny-chart {
+  display: flex;
+  flex: 1;
+}
+
+.chart-section-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  flex: 1;
+}
+
+.chart-section-text-percent-green {
+  color:chartreuse;
+}
+
+.chart-section-text-percent-red {
+  color:rosybrown;
+}
+
+.chart-section-text-duration {
+  color: bisque;
+}
+
+.chartbox-view-all-link {
+  color: azure;
+  text-decoration: none;
+}
+
+.chartbox-view-all-link:hover {
+  text-decoration: underline;
+}

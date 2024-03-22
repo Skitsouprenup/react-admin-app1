@@ -1,0 +1,17 @@
+.area-chart-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 100%;
+}
+
+.area-chart-box {
+  height: 100%;
+  width: 100%;
+}
+
+.area-chart {
+  display: flex;
+  height: 99%;
+}

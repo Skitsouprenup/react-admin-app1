@@ -1,0 +1,14 @@
+.products-view-container {
+  width: 100%;
+}
+
+.data-table-products-header {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.add-product-btn {
+  height: fit-content;
+  padding: 5px;
+}

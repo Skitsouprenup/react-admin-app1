@@ -1,0 +1,9 @@
+.admin-view {
+  padding: 0 10px;
+  padding-top: 10px;
+}
+
+.admin-view-content {
+  display: flex;
+  gap: 10px;
+}

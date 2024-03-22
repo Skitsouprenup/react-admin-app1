@@ -1,0 +1,34 @@
+.top-deals-content {
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.top-deals-item {
+  display:flex;
+  gap: 5px;
+}
+
+.item-profile {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  flex: 1;
+}
+
+.item-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.item-info-email {
+  font-size: 0.8rem;
+  color:rgb(148, 144, 144);
+}
+
+.item-amount {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}

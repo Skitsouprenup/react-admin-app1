@@ -1,0 +1,12 @@
+.datagrid-actions {
+  display: flex;
+  gap: 5px;
+}
+
+.datagrid-view-action:hover {
+  cursor: pointer;
+}
+
+.datagrid-delete-action:hover {
+  cursor: pointer;
+}
